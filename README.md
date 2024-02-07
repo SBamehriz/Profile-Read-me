@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
 <h1 align="center">Hi 👋, I'm Salim Ba Mehriz</h1>
-<h3 align="center">A Computer Science/Software Development Student at Missouri State University, and passionate about coding, programing, and exploring the exiting world of technology.</h3>
+<h3 align="center">A Computer Science (Software Development) Student at Missouri State University. Passionate about coding, programing, and exploring the exiting world of technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1kZ3Y2MTRta3h1ZW1tOTh4czIzdDRiM2U4dHp3ZWFqOXUyZXA0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salim-ba-mehriz-959139276/](https://www.linkedin.com/in/salim-ba-mehriz-959139276/)
