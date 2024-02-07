@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Salem.osbamehriz@gmail.com**
 
-- 📄 Know about my experiences [https://publuu.com/flip-book/341168/783791](https://publuu.com/flip-book/341168/783791)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bo-TdrI062XCiZc7Y29YxJ_vhJavB9mj/view?usp=sharing](https://drive.google.com/file/d/1bo-TdrI062XCiZc7Y29YxJ_vhJavB9mj/view?usp=sharing)
 
 - ⚡ Fun fact **I love to solve problems**
 
